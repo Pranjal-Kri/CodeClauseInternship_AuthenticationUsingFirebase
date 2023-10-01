@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533055625188",
+    "project_id": "loginner-92afe",
+    "storage_bucket": "loginner-92afe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533055625188:android:38c85a1f1a3da7915f59f1",
+        "android_client_info": {
+          "package_name": "com.example.loginner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOezyaj9DBRzcIzRCE3yITg3Q0BaBt2nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
